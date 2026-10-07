@@ -109,7 +109,7 @@ mental-wellness/
 
 ### Step 1 — Clone and configure
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Protonium04/MindPulse
 cd mental-wellness
 cp backend/.env.example backend/.env
 # Edit backend/.env and fill in ALL API keys
